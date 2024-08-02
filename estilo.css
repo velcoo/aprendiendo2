@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(255, 166, 0, 0.988);
+    text-align: center;
+}
+.principal {
+    background-color: aqua;
+    text-align:center ;
+    color: blue;
+    padding: 100px 100px;
+    margin: 20px ;
+}
+.segundo{
+    background: rgb(0, 128, 26);
+    text-align:right ;
+    color: blueviolet;
+    padding: 200px 50px 200px 50px;
+    margin: 50px 100px;
+}
+.tersera{
+    background: rgb(255, 0, 0);
+    text-align:left ;
+    color: aquamarine;
+    padding: 25px 50px 200px 100px ;
+    margin: 25px 50px 200px 100px;
+}
